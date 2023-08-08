@@ -19,6 +19,7 @@
 
 NucProbe is a Bash script designed for bug hunters, offering a streamlined and efficient approach to conducting comprehensive security assessments using the Nuclei scanner. With its automated features, NucProbe empowers bug hunters to stay ahead of the game and maximize their productivity. Let's explore why NucProbe is an invaluable tool for bug hunters:
 
+Read more about NucProbe in my Medium article: [Automating Nuclei Scans for Bug Hunters with NucProbe](https://medium.com/@ReverseTEN/nucprobe-automating-nuclei-scans-for-bug-hunters-29f378897f61)
 
 
 
