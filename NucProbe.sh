@@ -3,7 +3,7 @@
 nuclei_templates="/root/nuclei-templates"
 output_dir="./output"
 previous_output="$output_dir/previous_output.txt"
-diff_output="$output_dir/diff_output.txt"
+#diff_output="$output_dir/diff_output.txt"
 log_file="$output_dir/scan_log.txt"
 update_log="$output_dir/update_log.txt"
 targets_file="targets.txt"
